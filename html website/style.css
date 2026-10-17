@@ -1,0 +1,20 @@
+/*input focus effect*/
+input:focus{
+    background-color: white;
+}
+/* input focus effect */
+input:focus{
+    background-color: lightcoral;
+    outline: none;
+    color: black
+}
+/*textarea focus effect*/
+textarea:focus{
+background-color: lightcoral;
+color: black;
+outline: none;
+}
+/*mouse hover effect*/
+input:hover{
+    background-color: lightgreen;
+}
